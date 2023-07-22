@@ -5,7 +5,7 @@
     {
       "name": "Pride Heart w/ Border",
       "sources": [
-        "https://github.com/r-placeautism/templates/blob/main/heartwborder.png?raw=true"
+        "https://cdn.discordapp.com/attachments/1132305087620988969/1132320959307722772/heartwborder.png"
       ],
       "x": -820,
       "y": 340
