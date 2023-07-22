@@ -7,8 +7,8 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1132305087620988969/1132320959307722772/heartwborder.png"
       ],
-      "x": -820,
-      "y": 340
+      "x": 1,
+      "y": 1
     }
   ],
   "whitelist": [
