@@ -3,12 +3,20 @@
   "contact": "https://discord.gg/MbNB4CzV9h or nonkainary#4587",
   "templates": [
     {
-      "name": "Pride Heart w/ Border",
+      "name": "Autism Pride Heart w/ Border",
       "sources": [
         "https://cdn.discordapp.com/attachments/1132305087620988969/1132320959307722772/heartwborder.png"
       ],
       "x": -820,
       "y": 336
+    },
+    {
+      "name": "Autism Pride Flag",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132305087620988969/1132452673514393730/flagpix.png"
+      ],
+      "x": 630,
+      "y": -603
     }
   ],
   "whitelist": [
